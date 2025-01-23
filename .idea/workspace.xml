@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d690c84d-4c0b-492d-97fd-aa80283c6bd7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d690c84d-4c0b-492d-97fd-aa80283c6bd7" name="Changes" comment="Initial App" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,11 +71,24 @@
       <workItem from="1737199399753" duration="9000" />
       <workItem from="1737199414446" duration="26000" />
       <workItem from="1737199465773" duration="4973000" />
-      <workItem from="1737388749376" duration="802000" />
+      <workItem from="1737388749376" duration="1569000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial App">
+      <option name="closed" value="true" />
+      <created>1737389703933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737389703933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial App" />
   </component>
 </project>
