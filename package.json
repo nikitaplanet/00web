@@ -3,10 +3,12 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
+    "homepage": "https://nikitaplanet.github.io/00web/",
     "scripts": {
         "dev": "vite",
         "build": "vue-tsc -b && vite build",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "deploy": "gh-pages -d web"
     },
     "dependencies": {
         "@iconify/icons-ci": "^1.2.9",
@@ -41,6 +43,7 @@
         "chromatic": "^11.25.2",
         "eslint": "^9.18.0",
         "eslint-plugin-vue": "^9.32.0",
+        "gh-pages": "^6.3.0",
         "postcss": "^8.5.2",
         "prettier-plugin-organize-attributes": "^1.0.0",
         "sass": "^1.83.3",
