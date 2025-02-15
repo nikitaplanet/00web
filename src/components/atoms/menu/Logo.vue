@@ -1,5 +1,7 @@
 <template>
-    404 頁面
+    <h1 class="text-4xl font-medium">
+        LIANG LIN  ∣ 00
+    </h1>
 </template>
 
 <script setup lang="ts">
