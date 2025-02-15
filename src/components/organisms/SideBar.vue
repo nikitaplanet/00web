@@ -11,7 +11,7 @@
 				<span>
 					<MenuLabel :title="item.title" />
 					<span v-if="item.children && item.children.length > 0" class="flex flex-col">
-						<MenuItem v-for="sub in item.children" :key="item.label" :label="sub.label" :to="sub.link" />
+						<MenuItem v-for="sub in item.children" :key="sub.label" :label="sub.label" :to="sub.link" />
 					</span>
 				</span>
 				<Divider />

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a145b26-326d-4bbe-8fd2-72f64e23d64d" name="Changes" comment="feature: sidebar &amp; hover color change">
+    <list default="true" id="7a145b26-326d-4bbe-8fd2-72f64e23d64d" name="Changes" comment="feature: sidebar content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/menu/Logo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/menu/Logo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/organisms/SideBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/SideBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.node.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.node.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739552376333</updated>
       <workItem from="1739552377377" duration="2578000" />
-      <workItem from="1739603276215" duration="9968000" />
+      <workItem from="1739603276215" duration="10995000" />
     </task>
     <task id="LOCAL-00001" summary="initial app with vue3">
       <option name="closed" value="true" />
@@ -132,11 +133,25 @@
       <option name="project" value="LOCAL" />
       <updated>1739615543603</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feature: sidebar content">
+      <option name="closed" value="true" />
+      <created>1739616451800</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739616451800</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/vite.config.d.ts" />
+        <option value="$PROJECT_DIR$/vite.config.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -153,6 +168,7 @@
     <MESSAGE value="initial app with vue3" />
     <MESSAGE value="feature: basic color" />
     <MESSAGE value="feature: sidebar &amp; hover color change" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: sidebar &amp; hover color change" />
+    <MESSAGE value="feature: sidebar content" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: sidebar content" />
   </component>
 </project>
