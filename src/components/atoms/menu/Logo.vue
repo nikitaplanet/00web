@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-4xl font-medium">
+    <h1 class="text-4xl font-medium font-helvetica">
         LIANG LIN  ∣ 00
     </h1>
 </template>
